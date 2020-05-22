@@ -29,5 +29,6 @@
     </plugins>
   </build>
 	    <modules>
+	    <module>M01-code-simple-metrics</module>
 	    </modules>
 </project>
